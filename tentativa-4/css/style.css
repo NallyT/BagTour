@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+nav{
+    margin: -21px 0px;
+    height: 120px;
+    background-color: whitesmoke;
+    box-shadow: 0 19px 26px #3f51b5c9;
+
+}
+
+nav div h1{
+    color: black;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}

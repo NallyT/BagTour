@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+nav{
+	height: 115px;
+	background-color: rgba(0, 0, 0, 0.8);
+	z-index: 1;
+    width: 100%;
+    color: yellow;
+    display: flex;
+
+}
+
+nav ul{
+	float: left;
+	margin: 55px 30px
+	
+}
+
+nav ul li{
+	float: left;
+	list-style-type: none;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+.logo{
+	width: 98px;
+	margin: 5px 7px;
+	border: solid;
+}
+
+.BagTour{
+	margin: 37px 72px;
+	font-size: 20px;
+}

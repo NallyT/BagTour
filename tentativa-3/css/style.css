@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    background-image: url("../img/bg.jpg");
+    background-size: 100%;
+
+}
+
+div{
+    margin: 12px 230px;
+    text-align: center;
+}
+
+div img{
+    height: 95px;
+    width: 130px;      
+}
+
+.titulo{
+    font-size: 90px;
+    color: white;
+}
+
+nav{
+    padding: 35px;
+    background-color: rgba(2, 2, 41, 0.514);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav ul{
+    float: left;
+    margin: 0px 410px;
+    font-style: italic;
+
+}
+
+nav ul li{
+    float: left;
+    list-style-type: none;
+    margin-left: 40px;
+    color: white;
+    font-size: 25px;
+
+}
+
+.noticias{
+    display: flex;
+    margin-top: 160px;
+    margin-left: 160px;
+}
+
+.row img{
+    margin: 20px 40px;
+    
+    
+}
+
+

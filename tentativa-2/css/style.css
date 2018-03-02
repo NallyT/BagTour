@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+        margin:60px 40px;
+        text-align: center;
+}
+
+div{
+    color: orange;
+
+}
+
+div h1{
+    font-size: 47px;
+    margin: 10px 85px;
+}
+
+.menu{
+    float: left;
+    margin: -54px 24px;
+    border:indigo;
+    padding: 10px;
+    color: white;
+    background-color: brown;
+    border-radius: 50px;
+}
+
+#container{
+    padding: 1px;
+    box-shadow: 0px 19px 26px orange;
+    background-color: rgba(78, 37, 4, 0.788);
+    
+
+}
+
+.btn{
+    float: right;
+    margin: -59px 39px;
+    padding: 14px 126px 15px;
+    border-radius: 50px;
+    color:white;
+    border: transparent;
+    background-color: brown;
+
+}
+
+.bv{
+    font-style: italic;
+    font-size: 40px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.n1{
+    border: solid orangered;
+    border-radius: 15px;
+    color: black;
+    text-align: center;
+}
+
+div img{
+    padding: 35px;
+    width: 145px;
+    height: 100px;
+
+}

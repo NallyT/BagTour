@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+nav{
+    width: 1349px;
+    height: 100px;
+    background-color:green;
+}
+
+.logo{
+    width: 6em;
+    margin: 5px 54px;
+}
+
+.titulo{
+    font-size: 77px;
+    font-style: oblique;
+    color: floralwhite;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    margin-top: 0px;
+}
+
+.direita{
+    margin: 0 0;
+    padding:270px 167px;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.esquerda{
+    margin: 0 0;
+    padding: 270px 340px;
+    background-color:rgb(13, 56, 5);
+}
+
+.centro{
+    margin: 0 0;
+    padding: 270px 167px;
+    background-color: black;
+}
